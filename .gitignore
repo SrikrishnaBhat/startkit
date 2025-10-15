@@ -1,0 +1,4 @@
+*.pt
+.idea/
+*.pth
+data/
